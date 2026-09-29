@@ -7,7 +7,7 @@ name: "KubeVela"
 description: "Make shipping applications more enjoyable"
 type: "project"
 slack_channels:
-  - name: "kubevela"
+  - name: "#kubevela"
     link: "https://cloud-native.slack.com/archives/C01BLQ3HTJA"
     primary: true
 
